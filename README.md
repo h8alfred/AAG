@@ -1,2 +1,2 @@
-# AAG
-Test Project
+# Prototypes
+KernelWebService
